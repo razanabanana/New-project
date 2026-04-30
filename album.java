@@ -12,4 +12,7 @@ public class album
 
     //idk what to write
 
+
+    //idk what to write
+
 }
