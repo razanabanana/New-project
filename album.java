@@ -7,5 +7,9 @@
  */
 public class album
 {
+
     //skibidi
+
+    //idk what to write
+
 }
