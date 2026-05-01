@@ -9,6 +9,6 @@ public class test
 {
     public static void main (String[] args)
     {
-        
+        album.countdown((byte)(25));
     }
 }
